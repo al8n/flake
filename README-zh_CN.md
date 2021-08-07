@@ -7,7 +7,7 @@ A distributed unique ID generator inspired by [Twitter's Snowflake](https://blog
 
 This is a Rust implementation of the original [sony/sonyflake](https://github.com/sony/sonyflake), which is written in Go.
 
-English | [简体中文](README-zh_CN.md)
+[English](README.md) | 简体中文
 
 [<img alt="github" src="https://img.shields.io/badge/GITHUB-infallible--sonyflake-8da0cb?style=for-the-badge&logo=Github" height="22">][Github-url]
 [<img alt="Build" src="https://img.shields.io/badge/Build-passing-brightgreen?style=for-the-badge&logo=Github-Actions" height="22">][CI-url]
