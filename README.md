@@ -1,13 +1,22 @@
-# flake 
-
-[![Build](https://github.com/bahlo/sonyflake-rs/workflows/Build/badge.svg)](https://github.com/bahlo/sonyflake-rs/actions?query=workflow%3ABuild)
-[![crates.io](https://img.shields.io/crates/v/sonyflake.svg)](https://crates.io/crates/sonyflake)
-[![docs.rs](https://docs.rs/sonyflake/badge.svg)](https://docs.rs/sonyflake/)
-[![License](https://img.shields.io/crates/l/sonyflake)](LICENSE-APACHE)
+<div align="center">
+<h1>Infallible-Flake</h1>
+</div>
+<div align="center">
 
 A distributed unique ID generator inspired by [Twitter's Snowflake](https://blog.twitter.com/2010/announcing-snowflake).
 
 This is a Rust implementation of the original [sony/sonyflake](https://github.com/sony/sonyflake), which is written in Go.
+
+English | [简体中文](README-zh_CN.md)
+
+[<img alt="github" src="https://img.shields.io/badge/GITHUB-infallible--flake-8da0cb?style=for-the-badge&logo=Github" height="22">][Github-url]
+[<img alt="Build" src="https://img.shields.io/badge/Build-passing-brightgreen?style=for-the-badge&logo=Github-Actions" height="22">][CI-url]
+[<img alt="codecov" src="https://img.shields.io/codecov/c/gh/al8n/flake?style=for-the-badge&token=N7EPJLUZ0G&logo=codecov" height="22">][codecov-url]
+
+[<img alt="rustc" src="https://img.shields.io/badge/rustc-1.52.0+-fc8d62.svg?style=for-the-badge&logo=Rust" height="22">][rustc-url]
+[<img alt="rustc" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=for-the-badge&logo=Apache" height="22">][license-url]
+
+</div>
 
 A Sonyflake ID is composed of
 
@@ -114,3 +123,10 @@ Licensed under <a href="LICENSE">Apache License, Version
 Unless you explicitly state otherwise, any contribution intentionally submitted
 for inclusion in this crate by you, as defined in the Apache-2.0 license.
 </sub>
+
+[Github-url]: https://github.com/al8n/flake/
+[CI-url]: https://github.com/al8n/flake
+[codecov-url]: https://app.codecov.io/gh/al8n/flake/
+[license-url]: https://opensource.org/licenses/Apache-2.0
+[rustc-url]: https://github.com/rust-lang/rust/blob/master/RELEASES.md
+[rustc-image]: https://img.shields.io/badge/rustc-1.52.0--nightly%2B-orange.svg?style=for-the-badge&logo=Rus
