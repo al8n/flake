@@ -1,0 +1,8 @@
+[package]
+name = "examples"
+version = "0.0.0"
+publish = false
+edition = "2018"
+
+[dependencies]
+infallible-sonyflake = {version = "0.1", path = "../sonyflake"}
