@@ -1,6 +1,6 @@
 [package]
 name = "infallible-sonyflake"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2018"
 authors = ["al8n <scygliu1@gmail.com>"]
 license = "Apache-2.0"
