@@ -137,5 +137,5 @@ for inclusion in this crate by you, as defined in the Apache-2.0 license.
 [CI-url]: https://github.com/al8n/flake/actions/workflows/ci.yml
 [codecov-url]: https://app.codecov.io/gh/al8n/flake/
 [license-url]: https://opensource.org/licenses/Apache-2.0
-[crates-url]: https://crates.io/crates/infallible-sonyflaked
+[crates-url]: https://crates.io/crates/infallible-sonyflake
 
